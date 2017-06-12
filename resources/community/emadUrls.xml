@@ -1,0 +1,169 @@
+<streamingInfos>
+
+
+
+
+
+<streaminginfo>
+	<cname>Karbala</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Playing+Quality&amp;icon=http%3A%2F%2Fcdn.livestream.com%2Fnewlivestream%2Fposter-default_170x255.jpeg&amp;event_id=3998452&amp;owner_id=11436227&amp;video_id=LIVE</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Fadak</cname>
+	<item>
+	<title>Arabic HD</title>
+	<link>http://live.ftvcdn.co.uk/iq/7d80fbad86663c34c7f422f82da78014.sdp/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Alam</cname>
+	<item>
+	<title>Arabic High Quality</title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?token=20160125x2h5fruwen3Pateth</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Alam</cname>
+	<item>
+	<title>Arabic Low Quality</title>
+	<link>rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS/AlalamHLS swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf pageUrl=http://www.alalam.ir/live live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Anwar 2</cname>
+	<item>
+	<title>Arabic Medium Quality</title>
+	<link>http://rrr.sz.xlcdn.com/?account=anwartv2&amp;file=jazem&amp;type=live&amp;service=wowza&amp;protocol=http&amp;output=playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Maaref</cname>
+	<item>
+	<title>Low Quality</title>
+	<link>rtmp://www.almaareftv.com:1935/live/mp4:11 swfUrl=http://almaareftv.com/wp/001-live/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=6.0.4.12 pageUrl=http://almaareftv.com/wp/001-live live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Maaref</cname>
+	<item>
+	<title>Medium Quality</title>
+	<link>rtmp://www.almaareftv.com:1935/live/mp4:13 swfUrl=http://almaareftv.com/wp/001-live/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=6.0.4.12 pageUrl=http://almaareftv.com/wp/001-live live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Maaref</cname>
+	<item>
+	<title>Very High Quality</title>
+	<link>rtmp://www.almaareftv.com:1935/live/mp4:12 swfUrl=http://almaareftv.com/wp/001-live/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=6.0.4.12 pageUrl=http://almaareftv.com/wp/001-live live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aljazeera Doc</cname>
+	<item>
+	<title>Aljazeera Doc</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Wesal Tv</cname>
+	<item>
+	<title>Wesal Tv</title>
+	<link>rtmp://live.noorlive.com:1935/wesal/wesal1 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al-hurra Iraq</cname>
+	<item>
+	<title>Al-hurra Iraq link2</title>
+	<link>rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aljazeera</cname>
+	<item>
+	<title>Aljazeera</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+	<title>Al Sharqiya News</title>
+	<link>rtmp://ns9.indexforce.com/home/mystream live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Forat</cname>
+	<item>
+	<title>Low Quality</title>
+	<link>rtmp://alforatlive.nanocdn.com/live/alforat256 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Forat</cname>
+	<item>
+	<title>Very Low Quality</title>
+	<link>rtmp://alforatlive.nanocdn.com/live/alforat128 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Forat</cname>
+	<item>
+	<title>Extremely Low Quality</title>
+	<link>rtmp://alforatlive.nanocdn.com/live/alforat64 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ahlulbayt</cname>
+	<item>
+	<title>Low Quality</title>
+	<link>rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ahlulbayt</cname>
+	<item>
+	<title>Very Low Quality</title>
+	<link>rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt128 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ahlulbayt</cname>
+	<item>
+	<title>Extremely Low Quality</title>
+	<link>rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt64 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>iFilm Arabic</cname>
+	<item>
+	<title>Arabic HD</title>
+	<link>http://efusion1-i.akamaihd.net/hls/live/252882/ifilmar/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>iFilm English</cname>
+	<item>
+	<title>English HD</title>
+	<link>http://efusion1-i.akamaihd.net/hls/live/252882/ifilmen/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Imam Hussein 2</cname>
+	<item>
+	<title>Arabic HD</title>
+	<link>http://live.imamhusseintv.com/live/ih2.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Imam Hassan</cname>
+	<item>
+	<title>Imam Hassan</title>
+	<link>rtmp://uni6rtmp.tulix.tv:1935/imamh/imamh1 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+
+</streamingInfos>
